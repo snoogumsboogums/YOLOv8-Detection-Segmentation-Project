@@ -1,0 +1,1 @@
+This project implements YOLOv8 for object detection and instance segmentation. The model detects objects using bounding boxes and generates segmentation masks to accurately outline each object in an image. The system is designed to perform precise localization and pixel-level classification using a unified deep learning architecture.
